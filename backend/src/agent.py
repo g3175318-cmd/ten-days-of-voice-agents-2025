@@ -52,7 +52,7 @@ DEFAULT_FAQ = [
     },
     {
         "question": "Do you offer free content?",
-        "answer": "Yes! our faculty releases weekly tutorials on YouTube for free. The paid courses offer deep-dives, code reviews, and certification."
+        "answer": "Yes! our faculty teachers releases weekly tutorials on YouTube for free. The paid courses offer deep-dives, code reviews, and certification."
     },
     {
         "question": "Do you do corporate consulting?",
